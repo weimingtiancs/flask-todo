@@ -1,3 +1,4 @@
 tasks.db
 data.json
 __pycache__/
+.idea/
